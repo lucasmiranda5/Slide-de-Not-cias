@@ -85,6 +85,12 @@ transition: all 400ms;
 		background:#F5811E;
 		display: -webkit-inline-box;
 		margin:0 5px;
-		
-	}
+	
+}
+ img{
+  width: 100% \9;
+  max-width: 100%;
+  height: auto;
+}
+
 

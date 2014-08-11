@@ -77,8 +77,3 @@ jQuery.fn.SlideNoticia = function(tempo) {
 		
 };
 
-$(document).ready(function() {
-
-$('.SlideNoticia').SlideNoticia();
-
- });
